@@ -1,0 +1,1 @@
+A JavaScript-powered gaming platform for Rock, Paper, Scissors allows users to select their choice (Rock, Paper, or Scissors), while the computer randomly selects its own choice and instantly provides the result of the match
